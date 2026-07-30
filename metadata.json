@@ -1,0 +1,6 @@
+{
+  "name": "Durga Medical Hall",
+  "description": "Trusted Medical Store in Gaya, Bihar providing genuine medicines, healthcare essentials, surgical equipment, and online WhatsApp medicine ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
