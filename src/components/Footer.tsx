@@ -268,15 +268,8 @@ export default function Footer() {
 
           {/* WMIT Developer Link as required */}
           <div className="flex items-center gap-1">
-            <span>Developed by</span>
-            <a 
-              href="https://main.webmakerit.com" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-emerald-400 hover:underline font-medium inline-flex items-center gap-0.5"
-            >
-              WMIT <ArrowUpRight className="w-3 h-3" />
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </div>
         </div>
       </div>
