@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durga-medical-hall.vercel.app/sitemap.xml
